@@ -18,5 +18,26 @@
     <ClCompile Include="j1147_2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="j1031.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="j1110.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="j1114.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="j1128.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="j1140.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="j1147.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="j1147_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
